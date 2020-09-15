@@ -1,8 +1,12 @@
-pasta (Its Italin)
+<<<<<<< HEAD
+pasta (Its Italin) init pasta is life
 <<<<<<< HEAD
 Hallo here is Nameer
 add cooked noodles and instant sauce.
 =======
+=======
+pasta recipe
+>>>>>>> a7e2eaee91417352e8e03cf8091c27de2f145f4f
 
 add cooked noodles and instant sauce.
 
