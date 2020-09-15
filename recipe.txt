@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 pasta recipe
+=======
+pasta
+new line by me
+>>>>>>> fdb6e0ed9cc419bc207f51bcce32c7b835ce34a8
 
 add cooked noodles and instant sauce.
 put some cheese
@@ -9,3 +14,14 @@ I am adding new recip for you.
 
 milk and cookies
 
+<<<<<<< HEAD
+=======
+add another recip
+
+how to make kimch
+go to asian store and buy kimch..
+done..
+
+
+add more text
+>>>>>>> fdb6e0ed9cc419bc207f51bcce32c7b835ce34a8
