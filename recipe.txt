@@ -1,3 +1,14 @@
-pasta
+pasta (Its Italin)
+<<<<<<< HEAD
 Hallo here is Nameer
 add cooked noodles and instant sauce.
+=======
+
+add cooked noodles and instant sauce.
+
+Hi this is Wan.
+
+I am adding new recip for you.
+
+milk and cookies
+>>>>>>> dcb05f8d1f6a1bb9f8a25eac411a5c56288458e0
